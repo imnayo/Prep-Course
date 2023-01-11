@@ -123,7 +123,7 @@ git checkout "nombre de la rama" // cambiarse de rama
 El comando git merge nos permite crear un nuevo commit con la combinación de dos ramas, la rama donde nos encontramos cuando ejecutamos el comando y la rama que le pasamos después del comando.
 
 ```shell
-git merge "cualquier otra rama"
+git merge "cualquier otra rama1" 
 ```
 
 ### Resolución de conflictos al hacer un Merge
